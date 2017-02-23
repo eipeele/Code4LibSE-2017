@@ -1,6 +1,6 @@
-Code4LibSE Code of Conduct:
+#Code4LibSE Code of Conduct:
 
-Anti-Harassment policy:
+##Anti-Harassment policy:
 
 Code4Lib Southeast 2017 is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion.  We do not tolerate harassment of participants in any form.
 
@@ -14,11 +14,11 @@ Harassment includes:
 •	Sustained disruption of discussion.
 This code of conduct applies to all Code4Lib Southeast 2017 community spaces, both online and off.  Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the unconference organizers.
 
-Reporting
+##Reporting
 
 If you experience harassment at Code4Lib Southeast 2017 or on any of its digital properties, or have any other concerns, please contact code4libse2017conduct@gmail.com, or reach out to an event organizer. 
 
-Sanctions
+##Sanctions
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, organizers may take any action they deem appropriate, including warning the offender, expulsion from the Code4LibSE 2017 event, or banning the offender from a chatroom or mailing list.
 Specific sanctions may include but are not limited to:
