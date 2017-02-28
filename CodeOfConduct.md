@@ -36,7 +36,7 @@ Specific sanctions may include but are not limited to:
 
 We expect participants to follow these rules at all conference venues, conference-related social events, community gatherings, and online communication channels.
 
-Based on the example policy from the Geek Feminism wiki, and the policy from Code4Lib 2017.
+Based on the example policy from the [Geek Feminism wiki](https://geekfeminism.org/about/code-of-conduct/), and the policy from [Code4Lib 2017](https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md).
 
 
 
